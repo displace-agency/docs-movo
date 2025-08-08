@@ -74,3 +74,26 @@
 - Struggling to find their niche in office furniture
 - European manufacturing as differentiator
 - Sustainability focus (not fully leveraged)
+
+## Project Team Structure
+
+### Agency Partnership
+This project will be delivered through a strategic partnership between two specialized agencies:
+
+**The Offsite Agency** (https://www.theoffsiteagency.com/)
+- Role: Strategy, UX/UI Design, Brand Enhancement
+- Expertise: Award-winning design studio
+- Deliverables: Complete design system and mockups
+
+**Displace Agency**
+- Role: Technical Development, Integration, Optimization  
+- Expertise: Webflow development, conversion optimization
+- Deliverables: Full website build and technical implementation
+
+### Collaboration Model
+- 50/50 budget split for Phase 1
+- Integrated project management
+- Seamless design-to-development handoff
+- Unified client communication
+
+This partnership ensures best-in-class design paired with robust technical execution, providing MOVO with a complete solution rather than compromises.

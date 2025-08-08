@@ -30,3 +30,11 @@ This repository contains all documentation related to the MOVO website redesign 
 ---
 
 *Last Updated: August 8, 2025*
+
+- **[07-phase1-detailed-proposal.md](07-phase1-detailed-proposal.md)** - Comprehensive Phase 1 proposal
+
+## Key Updates
+- Phase 1 expanded to full website redesign (not just landing page)
+- Partnership with The Offsite Agency for design
+- 50/50 budget split between design and development
+- Total project budget: €47,000 - €57,000
