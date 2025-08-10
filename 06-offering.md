@@ -1,5 +1,11 @@
 # MOVO Website Offering - Phase Breakdown
 
+## **CURRENT OFFERING: PHASE 1 ONLY**
+
+**Note**: This document outlines our complete project vision across three phases, but **we are currently only offering Phase 1**. Phase 2 and Phase 3 are included for future planning purposes and are not part of the current scope or pricing.
+
+---
+
 ## Phase 1: Foundation (45 Working Days)
 
 ### Deliverables Table
@@ -21,6 +27,58 @@
 | **Integrations** | CRM | 1 | HubSpot or similar |
 | | Email Platform | 1 | Automated workflows |
 | | Smootify | 1 | Product data sync prep |
+
+### Phase 1 Timeline - Detailed Breakdown
+
+#### Project Overview
+**Total Duration**: 8-10 weeks (45 working days)  
+**Start Date**: Upon design approval and asset handoff  
+**Launch Date**: TBD based on design completion  
+**Team**: 2-3 developers + 1 project manager  
+
+#### Week-by-Week Schedule
+
+| **Week** | **Focus Area** | **Key Deliverables** | **Client Review Points** |
+|-----------|----------------|----------------------|---------------------------|
+| **Week 1** | Project Setup & Foundation | Development environment, project structure, CMS architecture | Project foundation approval |
+| **Week 2** | Core Structure & Navigation | Site structure, responsive navigation, page templates | Site structure review |
+| **Week 3** | Homepage Development | Complete homepage with hero, products, CTAs, forms | Homepage approval |
+| **Week 4** | Product Catalog & E-commerce | Product listings, detail pages, inquiry forms | E-commerce functionality approval |
+| **Week 5** | Content Pages & CMS | About pages, contact page, CMS setup | Content pages review |
+| **Week 6** | Advanced Features | Search functionality, blog template, performance optimization | Advanced features approval |
+| **Week 7** | Testing & QA | Cross-browser testing, mobile testing, bug fixes | Testing completion sign-off |
+| **Week 8** | Final Testing & Launch | SEO optimization, analytics setup, launch preparation | Final approval for launch |
+
+#### Key Milestones & Client Approvals
+
+| **Milestone** | **Week** | **Deliverable** | **Client Action Required** |
+|---------------|----------|------------------|----------------------------|
+| **Project Foundation** | Week 1 | Development environment, project structure | Approve project setup |
+| **Site Structure** | Week 2 | Navigation and basic layout | Review and provide feedback |
+| **Homepage** | Week 3 | Complete homepage functionality | Approve homepage design and functionality |
+| **E-commerce** | Week 4 | Product catalog and forms | Approve product functionality |
+| **Content Pages** | Week 5 | All static content pages | Review content and provide feedback |
+| **Advanced Features** | Week 6 | Search, blog, optimization | Approve advanced functionality |
+| **Testing Complete** | Week 7 | QA reports, bug fixes | Sign off on testing completion |
+| **Launch Ready** | Week 8 | Final website, launch checklist | Final approval for go-live |
+
+#### Dependencies & Critical Path
+
+| **Dependency** | **Impact** | **Mitigation Strategy** | **Owner** |
+|----------------|------------|-------------------------|-----------|
+| **Design Assets** | Delays development start | Early design review, phased handoff | The Offsite Agency |
+| **Content Approval** | Slows page development | Content templates, placeholder content | Client |
+| **Client Feedback** | Extends timeline | Regular check-ins, clear feedback process | Project Manager |
+| **Third-party Integrations** | May delay launch | Early API testing, fallback options | Development Team |
+
+#### Resource Allocation
+
+| **Role** | **Hours/Week** | **Total Hours** | **Key Responsibilities** |
+|-----------|----------------|-----------------|---------------------------|
+| **Project Manager** | 20 | 160 | Project coordination, client communication |
+| **Senior Developer** | 40 | 320 | Architecture, complex features, code review |
+| **Frontend Developer** | 40 | 320 | Page development, responsive design |
+| **QA Specialist** | 20 | 80 | Testing, bug reporting, quality assurance |
 
 ### Technical Specifications
 
@@ -49,7 +107,9 @@
 
 ---
 
-## Phase 2: Enhancement (30 Days)
+## Phase 2: Enhancement (30 Days) - **NOT INCLUDED IN CURRENT OFFERING**
+
+**Note**: This phase is for future planning and is not part of the current Phase 1 scope or pricing.
 
 ### Deliverables Table
 
@@ -63,7 +123,9 @@
 
 ---
 
-## Phase 3: Scale (30 Days)
+## Phase 3: Scale (30 Days) - **NOT INCLUDED IN CURRENT OFFERING**
+
+**Note**: This phase is for future planning and is not part of the current Phase 1 scope or pricing.
 
 ### Deliverables Table
 

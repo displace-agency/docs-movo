@@ -1,22 +1,28 @@
 # Design Deliverables - MOVO Website Redesign
 
+## **CURRENT OFFERING: PHASE 1 DESIGN ONLY**
+
+**Note**: This document outlines our complete design vision, but **we are currently only offering Phase 1 design services**. Phase 2 and Phase 3 design work are included for future planning purposes and are not part of the current scope or pricing.
+
+---
+
 ## Executive Summary
 
 **Project Phase**: Design & Brand Enhancement  
 **Primary Agency**: The Offsite Agency  
-**Timeline**: TBD  
+**Timeline**: 6-8 weeks (Phase 1 only)  
 **Deliverables**: Complete design system, brand guidelines, and website mockups  
 **Collaboration**: Seamless handoff to Displace Agency for development  
 
 ## Design Scope Overview
 
-### Service Tiers & Deliverables
+### **Phase 1 Service Tier - Professional Package**
 
-| **Service Tier** | **Core Deliverables** | **Additional Features** | **Estimated Timeline** |
-|------------------|------------------------|-------------------------|------------------------|
-| **Essential** | Brand refresh, 5-page website design | Basic responsive layouts | 4-6 weeks |
-| **Professional** | Full rebrand, 10-page website design | Advanced UI components, style guide | 6-8 weeks |
-| **Premium** | Complete brand transformation, 15+ pages | Design system, component library | 8-12 weeks |
+| **Service Tier** | **Core Deliverables** | **Additional Features** | **Timeline** |
+|------------------|------------------------|-------------------------|--------------|
+| **Professional (Current Offering)** | Full rebrand, 10-page website design | Advanced UI components, style guide | **6-8 weeks** |
+
+**Note**: Essential and Premium tiers are not part of the current offering.
 
 ## Brand Design Deliverables
 
@@ -40,6 +46,67 @@
 | **Typography** | Font hierarchy, sizing, spacing | Readability standards | Content creators |
 | **Voice & Tone** | Brand personality, messaging style | Communication consistency | Marketing, sales teams |
 | **Visual Elements** | Icons, patterns, photography style | Design consistency | Designers, developers |
+
+## Phase 1 Design Timeline - Detailed Breakdown
+
+### Project Overview
+**Total Duration**: 6-8 weeks  
+**Start Date**: Upon project kickoff and contract signing  
+**Completion Date**: TBD based on client feedback cycles  
+**Team**: 2-3 designers + 1 creative director  
+
+### Week-by-Week Schedule
+
+| **Week** | **Focus Area** | **Key Deliverables** | **Client Review Points** |
+|-----------|----------------|----------------------|---------------------------|
+| **Week 1** | Discovery & Strategy | Brand audit, competitive analysis, user personas | Strategy approval |
+| **Week 2** | Information Architecture | Site structure, navigation planning, content mapping | IA approval |
+| **Week 3** | Visual Direction | Mood boards, style exploration, brand direction | Visual direction approval |
+| **Week 4** | Wireframing | Layout structure, content placement, user flows | Wireframe approval |
+| **Week 5** | Visual Design - Core Pages | Homepage, product catalog, key page designs | Core pages approval |
+| **Week 6** | Visual Design - Remaining Pages | About, contact, product detail page designs | Remaining pages approval |
+| **Week 7** | Interactive Prototypes | Clickable prototypes, user testing, refinements | Prototype approval |
+| **Week 8** | Final Assets & Handoff | Design system, style guide, development handoff | Final approval |
+
+### Key Milestones & Client Approvals
+
+| **Milestone** | **Week** | **Deliverable** | **Client Action Required** |
+|---------------|----------|------------------|----------------------------|
+| **Strategy Foundation** | Week 1-2 | Brand audit, competitive analysis, user personas | Approve strategic direction |
+| **Information Architecture** | Week 2 | Site structure and navigation planning | Approve site structure |
+| **Visual Direction** | Week 3 | Mood boards and style exploration | Approve visual direction |
+| **Wireframes** | Week 4 | Layout structure and content placement | Approve wireframe approach |
+| **Core Page Designs** | Week 5 | Homepage and key page designs | Approve core page designs |
+| **Complete Page Designs** | Week 6 | All remaining page designs | Approve all page designs |
+| **Interactive Prototypes** | Week 7 | Clickable prototypes and user testing | Approve final prototypes |
+| **Design Handoff** | Week 8 | Design system, style guide, assets | Final approval for development |
+
+### Dependencies & Critical Path
+
+| **Dependency** | **Impact** | **Mitigation Strategy** | **Owner** |
+|----------------|------------|-------------------------|-----------|
+| **Client Feedback** | Delays design progression | Clear feedback process, 48-hour response | Project Manager |
+| **Content Availability** | Slows page design | Content templates, placeholder text | Client |
+| **Brand Assets** | Delays visual design | Early asset collection, existing brand review | Client |
+| **Stakeholder Approval** | Extends timeline | Single decision maker, clear approval process | Client |
+
+### Resource Allocation
+
+| **Role** | **Hours/Week** | **Total Hours** | **Key Responsibilities** |
+|-----------|----------------|-----------------|---------------------------|
+| **Creative Director** | 20 | 160 | Strategic direction, client communication |
+| **Senior Designer** | 40 | 320 | Brand design, visual direction, design system |
+| **UX Designer** | 40 | 320 | Information architecture, wireframes, prototypes |
+| **Project Manager** | 15 | 120 | Project coordination, client communication |
+
+### Design Review Process
+
+| **Review Stage** | **Participants** | **Focus Areas** | **Approval Criteria** |
+|------------------|------------------|-----------------|----------------------|
+| **Internal Review** | Design team, creative director | Design quality, brand consistency | Team consensus |
+| **Client Review** | Client stakeholders, decision makers | Brand alignment, business goals | Client approval |
+| **User Testing** | Target audience, usability experts | User experience, functionality | User feedback |
+| **Technical Review** | Development team, technical lead | Implementation feasibility | Technical approval |
 
 ## Website Design Deliverables
 
@@ -89,32 +156,18 @@
 
 ## Design Process & Deliverables
 
-### Phase 1: Discovery & Strategy
+### **Phase 1 Design Process (6-8 Weeks)**
 
-| **Deliverable** | **Description** | **Timeline** | **Client Approval Required** |
-|-----------------|-----------------|--------------|------------------------------|
-| **Brand Audit** | Current brand analysis and recommendations | Week 1-2 | Yes |
-| **Competitive Analysis** | Market research and positioning strategy | Week 1-2 | Yes |
-| **User Personas** | Target audience profiles and behaviors | Week 2-3 | Yes |
-| **Information Architecture** | Site structure and navigation planning | Week 2-3 | Yes |
+| **Week** | **Deliverable** | **Description** | **Client Approval Required** |
+|----------|-----------------|-----------------|------------------------------|
+| **Week 1-2** | **Brand Audit & Strategy** | Current brand analysis, competitive research, user personas | Yes - Strategic direction |
+| **Week 3** | **Visual Direction** | Mood boards, style exploration, brand direction | Yes - Visual approach |
+| **Week 4** | **Wireframes** | Layout structure and content placement | Yes - Layout approach |
+| **Week 5-6** | **Visual Design** | High-fidelity mockups for all pages | Yes - Page designs |
+| **Week 7** | **Interactive Prototypes** | Clickable prototypes for user testing | Yes - Final prototypes |
+| **Week 8** | **Design Handoff** | Design system, style guide, production assets | Yes - Final approval |
 
-### Phase 2: Design Development
-
-| **Deliverable** | **Description** | **Timeline** | **Client Approval Required** |
-|-----------------|-----------------|--------------|------------------------------|
-| **Mood Boards** | Visual direction and style exploration | Week 3-4 | Yes |
-| **Wireframes** | Layout structure and content placement | Week 4-5 | Yes |
-| **Visual Design** | High-fidelity mockups and prototypes | Week 5-7 | Yes |
-| **Interactive Prototypes** | Clickable prototypes for user testing | Week 6-8 | Yes |
-
-### Phase 3: Refinement & Handoff
-
-| **Deliverable** | **Description** | **Timeline** | **Client Approval Required** |
-|-----------------|-----------------|--------------|------------------------------|
-| **Design System** | Component library and style guide | Week 7-9 | Yes |
-| **Final Mockups** | Production-ready design files | Week 8-10 | Yes |
-| **Asset Preparation** | Optimized images and graphics | Week 9-10 | Yes |
-| **Development Handoff** | Design specifications and assets | Week 10 | Yes |
+**Note**: This streamlined process focuses on delivering the complete Phase 1 design package in 6-8 weeks with clear client approval points at each major milestone.
 
 ## File Deliverables & Specifications
 
