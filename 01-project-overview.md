@@ -1,99 +1,108 @@
-# Project Overview: MOVO Website Redesign
+# MOVO Website Redesign - Project Overview
 
-## Company Background
+## Executive Summary
 
-### MOVO
-- **Industry**: Office furniture manufacturing and sales
-- **Tagline**: "More than office"
-- **Parent Company**: Sobočan Ltd. (established 1996)
-- **Location**: Mursko Središće, Croatia
+**Client**: MOVO (Sobočan Ltd.)  
+**Industry**: Office Furniture Manufacturing  
+**Project Type**: Website Redesign + Brand Enhancement  
+**Timeline**: TBD  
+**Budget**: TBD  
 
-### Ownership Structure
-- Dan: 33% owner (design/brand focused)
-- Two brothers: 66% owners (production focused)
-- Decision-making challenges due to split priorities
+## Company Profile
 
-## Current Situation
+| **Aspect** | **Details** |
+|------------|-------------|
+| **Company** | MOVO by Sobočan Ltd. |
+| **Established** | 1996 |
+| **Location** | Mursko Središće, Croatia |
+| **Industry** | Office Furniture Manufacturing & Sales |
+| **Tagline** | "More than office" |
+| **Ownership** | Dan (33% - design/brand), Two brothers (66% - production) |
 
-### Website Issues
-1. **Broken Lead Generation**: Multi-step form returns 500 errors
-2. **No E-commerce**: Display-only catalog
-3. **Poor User Experience**: Confusing navigation and inquiry process
-4. **Maintenance**: Currently handled by Morgan Code (monthly retainer)
+## Current Business Challenges
 
-### Business Challenges
-- Post-COVID drop in home office demand
-- Unclear positioning between B2B and B2C
-- Product versatility creates marketing confusion
-- Slow internal decision-making
-- No dedicated MOVO personnel
+| **Challenge Category** | **Specific Issues** | **Business Impact** |
+|------------------------|---------------------|---------------------|
+| **Website Performance** | • Broken lead generation (500 errors)<br>• No e-commerce functionality<br>• Poor user experience | Lost sales opportunities |
+| **Market Position** | • Unclear B2B vs B2C focus<br>• Post-COVID demand decline<br>• Confusing product positioning | Reduced market share |
+| **Operations** | • Slow decision-making<br>• No dedicated MOVO personnel<br>• Maintenance dependency on Morgan Code | Inefficient processes |
 
 ## Product Portfolio
 
-### Core Products (6 Models)
-1. The Free Spirit - Residential focus
-2. The Visionary
-3. The Expert
-4. The Star
-5. The Genius
-6. The Performer
-7. The Starlight - Collaboration piece
+### Core Product Line (7 Models)
 
-### Collections
-- **MOVO Collection**: Original 6 products
-- **Mohoko Collection**: New 5-product office equipment line
-- **Collaborations**: SWOODA, Starlight
+| **Product** | **Focus** | **Price Range** |
+|-------------|-----------|-----------------|
+| The Free Spirit | Residential | €580 - €2,000 |
+| The Visionary | Professional | €800 - €3,000 |
+| The Expert | Corporate | €1,200 - €4,000 |
+| The Star | Executive | €1,500 - €4,500 |
+| The Genius | Creative | €1,000 - €3,500 |
+| The Performer | Performance | €900 - €3,200 |
+| The Starlight | Collaboration | €1,800 - €5,000+ |
 
-### Price Range
-- Entry: €580 (basic configurations)
-- Premium: €5,000+ (custom configurations)
+### Collections Overview
+
+| **Collection** | **Products** | **Market Focus** |
+|----------------|--------------|------------------|
+| MOVO Collection | 6 core products | Office furniture |
+| Mohoko Collection | 5 office equipment items | Office accessories |
+| Collaborations | SWOODA, Starlight | Specialized markets |
 
 ## Target Markets
 
-### Identified Segments
-- Insurance agencies
-- Educational institutions (student dorms)
-- Boutique hotels
-- Co-working spaces
-- Home office professionals
-- Corporate offices
+| **Market Segment** | **Use Case** | **Revenue Potential** |
+|--------------------|--------------|----------------------|
+| Insurance Agencies | Corporate offices | High |
+| Educational Institutions | Student dorms, faculty offices | Medium-High |
+| Boutique Hotels | Lobby, meeting spaces | Medium |
+| Co-working Spaces | Flexible workstations | High |
+| Home Office Professionals | Residential use | Medium |
+| Corporate Offices | Executive suites | High |
 
-### Current Sales Channels
-- Website inquiries (broken)
-- Direct sales
-- No online purchasing
+## Competitive Advantages
 
-## Awards & Recognition
-- German Innovation Award 2021
-- ICONIC Awards 2021 (Best of Best)
-- BIGSee WoodDesign Award 2021
-- A'Design Award 2022
+| **Advantage** | **Description** | **Market Value** |
+|---------------|-----------------|------------------|
+| **European Manufacturing** | Quality craftsmanship | Premium positioning |
+| **Award Recognition** | German Innovation Award 2021, ICONIC Awards 2021 | Credibility |
+| **Product Versatility** | Multiple configurations | Market flexibility |
+| **Sustainability Focus** | Wood-based materials | Environmental appeal |
 
-## Competitive Landscape
-- Attempted to copy hospitality furniture model
-- Struggling to find their niche in office furniture
-- European manufacturing as differentiator
-- Sustainability focus (not fully leveraged)
+## Project Requirements
 
-## Project Team Structure
+### Primary Objectives
+1. **Fix Lead Generation** - Resolve 500 errors in inquiry forms
+2. **Implement E-commerce** - Enable online purchasing
+3. **Improve UX/UI** - Streamline navigation and user flow
+4. **Brand Enhancement** - Strengthen market positioning
 
-### Agency Partnership
-This project will be delivered through a strategic partnership between two specialized agencies:
+### Technical Requirements
+- Responsive design
+- E-commerce integration
+- Lead generation optimization
+- Content management system
+- Performance optimization
 
-**The Offsite Agency** (https://www.theoffsiteagency.com/)
-- Role: Strategy, UX/UI Design, Brand Enhancement
-- Expertise: Award-winning design studio
-- Deliverables: Complete design system and mockups
+## Agency Partnership
 
-**Displace Agency**
-- Role: Technical Development, Integration, Optimization  
-- Expertise: Webflow development, conversion optimization
-- Deliverables: Full website build and technical implementation
+| **Agency** | **Role** | **Deliverables** |
+|------------|----------|------------------|
+| **The Offsite Agency** | Strategy, UX/UI Design, Brand | Design system, mockups, brand guidelines |
+| **Displace Agency** | Technical Development, Integration | Website build, e-commerce, optimization |
 
 ### Collaboration Model
-- 50/50 budget split for Phase 1
-- Integrated project management
-- Seamless design-to-development handoff
-- Unified client communication
+- **Budget Split**: 50/50 for Phase 1
+- **Project Management**: Integrated approach
+- **Handoff**: Seamless design-to-development
+- **Communication**: Unified client interface
 
-This partnership ensures best-in-class design paired with robust technical execution, providing MOVO with a complete solution rather than compromises.
+## Success Metrics
+
+| **Metric** | **Current State** | **Target State** |
+|------------|-------------------|------------------|
+| Lead Generation | Broken (500 errors) | Functional forms |
+| E-commerce | None | Full online store |
+| User Experience | Poor navigation | Intuitive flow |
+| Conversion Rate | Unknown | Measurable improvement |
+| Page Load Speed | Unknown | <3 seconds |
