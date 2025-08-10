@@ -2,7 +2,7 @@
 
 ## **CURRENT OFFERING: PHASE 1 DESIGN ONLY**
 
-**Note**: This document outlines our complete design vision, but **we are currently only offering Phase 1 design services**. Phase 2 and Phase 3 design work are included for future planning purposes and are not part of the current scope or pricing.
+**Note**: This document outlines our complete design vision, but **we are currently only offering Phase 1 design services**. Phase 2 and Phase 3 design work are included for future planning purposes and are not part of the current scope.
 
 ---
 

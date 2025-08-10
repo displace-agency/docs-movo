@@ -318,11 +318,11 @@
 
 | **Service Type** | **Description** | **Included Period** | **Additional Cost** |
 |------------------|-----------------|---------------------|---------------------|
-| **Bug Fixes** | Critical functionality issues | 30 days | $150/hour |
-| **Content Updates** | Minor text and image changes | 30 days | $100/hour |
-| **Performance Optimization** | Speed and SEO improvements | 30 days | $200/hour |
-| **Feature Additions** | New functionality development | Not included | Project-based pricing |
-| **Ongoing Support** | Monthly maintenance and updates | Not included | Monthly retainer |
+| **Bug Fixes** | Critical functionality issues | 30 days | TBD |
+| **Content Updates** | Minor text and image changes | 30 days | TBD |
+| **Performance Optimization** | Speed and SEO improvements | 30 days | TBD |
+| **Feature Additions** | New functionality development | Not included | TBD |
+| **Ongoing Support** | Monthly maintenance and updates | Not included | TBD |
 
 ### Support Response Times
 

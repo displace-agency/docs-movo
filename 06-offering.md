@@ -2,7 +2,7 @@
 
 ## **CURRENT OFFERING: PHASE 1 ONLY**
 
-**Note**: This document outlines our complete project vision across three phases, but **we are currently only offering Phase 1**. Phase 2 and Phase 3 are included for future planning purposes and are not part of the current scope or pricing.
+**Note**: This document outlines our complete project vision across three phases, but **we are currently only offering Phase 1**. Phase 2 and Phase 3 are included for future planning purposes and are not part of the current scope.
 
 ---
 
@@ -72,7 +72,7 @@
 
 ## Phase 2: Enhancement (30 Days) - **NOT INCLUDED IN CURRENT OFFERING**
 
-**Note**: This phase is for future planning and is not part of the current Phase 1 scope or pricing.
+**Note**: This phase is for future planning and is not part of the current Phase 1 scope.
 
 ### Deliverables Table
 
@@ -88,7 +88,7 @@
 
 ## Phase 3: Scale (30 Days) - **NOT INCLUDED IN CURRENT OFFERING**
 
-**Note**: This phase is for future planning and is not part of the current Phase 1 scope or pricing.
+**Note**: This phase is for future planning and is not part of the current Phase 1 scope.
 
 ### Deliverables Table
 

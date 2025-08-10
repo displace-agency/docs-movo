@@ -31,15 +31,15 @@
 
 ### Core Product Line (7 Models)
 
-| **Product** | **Focus** | **Price Range** |
-|-------------|-----------|-----------------|
-| The Free Spirit | Residential | €580 - €2,000 |
-| The Visionary | Professional | €800 - €3,000 |
-| The Expert | Corporate | €1,200 - €4,000 |
-| The Star | Executive | €1,500 - €4,500 |
-| The Genius | Creative | €1,000 - €3,500 |
-| The Performer | Performance | €900 - €3,200 |
-| The Starlight | Collaboration | €1,800 - €5,000+ |
+| **Product** | **Focus** | **Target Market** |
+|-------------|-----------|------------------|
+| The Free Spirit | Residential | Home office professionals |
+| The Visionary | Professional | Small business owners |
+| The Expert | Corporate | Medium to large companies |
+| The Star | Executive | C-suite and senior management |
+| The Genius | Creative | Design and creative agencies |
+| The Performer | Performance | High-performance work environments |
+| The Starlight | Collaboration | Team and collaborative spaces |
 
 ### Collections Overview
 
@@ -92,7 +92,7 @@
 | **Displace Agency** | Technical Development, Integration | Website build, e-commerce, optimization |
 
 ### Collaboration Model
-- **Budget Split**: 50/50 for Phase 1
+- **Budget Split**: TBD for Phase 1
 - **Project Management**: Integrated approach
 - **Handoff**: Seamless design-to-development
 - **Communication**: Unified client interface
