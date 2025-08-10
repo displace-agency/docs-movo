@@ -28,57 +28,20 @@
 | | Email Platform | 1 | Automated workflows |
 | | Smootify | 1 | Product data sync prep |
 
-### Phase 1 Timeline - Detailed Breakdown
+### Development Overview
 
-#### Project Overview
-**Total Duration**: 8-10 weeks (45 working days)  
-**Start Date**: Upon design approval and asset handoff  
-**Launch Date**: TBD based on design completion  
-**Team**: 2-3 developers + 1 project manager  
+| **Development Area** | **Approximate Time** | **Key Components** |
+|----------------------|----------------------|-------------------|
+| **Project Setup & Foundation** | 1 week | Development environment, project structure, CMS architecture |
+| **Core Structure & Navigation** | 1 week | Site structure, responsive navigation, page templates |
+| **Homepage Development** | 1 week | Complete homepage with hero, products, CTAs, forms |
+| **Product Catalog & E-commerce** | 2 weeks | Product listings, detail pages, inquiry forms |
+| **Content Pages & CMS** | 1 week | About pages, contact page, CMS setup |
+| **Advanced Features** | 1 week | Search functionality, blog template, performance optimization |
+| **Testing & QA** | 1 week | Cross-browser testing, mobile testing, bug fixes |
+| **Final Testing & Launch** | 1 week | SEO optimization, analytics setup, launch preparation |
 
-#### Week-by-Week Schedule
-
-| **Week** | **Focus Area** | **Key Deliverables** | **Client Review Points** |
-|-----------|----------------|----------------------|---------------------------|
-| **Week 1** | Project Setup & Foundation | Development environment, project structure, CMS architecture | Project foundation approval |
-| **Week 2** | Core Structure & Navigation | Site structure, responsive navigation, page templates | Site structure review |
-| **Week 3** | Homepage Development | Complete homepage with hero, products, CTAs, forms | Homepage approval |
-| **Week 4** | Product Catalog & E-commerce | Product listings, detail pages, inquiry forms | E-commerce functionality approval |
-| **Week 5** | Content Pages & CMS | About pages, contact page, CMS setup | Content pages review |
-| **Week 6** | Advanced Features | Search functionality, blog template, performance optimization | Advanced features approval |
-| **Week 7** | Testing & QA | Cross-browser testing, mobile testing, bug fixes | Testing completion sign-off |
-| **Week 8** | Final Testing & Launch | SEO optimization, analytics setup, launch preparation | Final approval for launch |
-
-#### Key Milestones & Client Approvals
-
-| **Milestone** | **Week** | **Deliverable** | **Client Action Required** |
-|---------------|----------|------------------|----------------------------|
-| **Project Foundation** | Week 1 | Development environment, project structure | Approve project setup |
-| **Site Structure** | Week 2 | Navigation and basic layout | Review and provide feedback |
-| **Homepage** | Week 3 | Complete homepage functionality | Approve homepage design and functionality |
-| **E-commerce** | Week 4 | Product catalog and forms | Approve product functionality |
-| **Content Pages** | Week 5 | All static content pages | Review content and provide feedback |
-| **Advanced Features** | Week 6 | Search, blog, optimization | Approve advanced functionality |
-| **Testing Complete** | Week 7 | QA reports, bug fixes | Sign off on testing completion |
-| **Launch Ready** | Week 8 | Final website, launch checklist | Final approval for go-live |
-
-#### Dependencies & Critical Path
-
-| **Dependency** | **Impact** | **Mitigation Strategy** | **Owner** |
-|----------------|------------|-------------------------|-----------|
-| **Design Assets** | Delays development start | Early design review, phased handoff | The Offsite Agency |
-| **Content Approval** | Slows page development | Content templates, placeholder content | Client |
-| **Client Feedback** | Extends timeline | Regular check-ins, clear feedback process | Project Manager |
-| **Third-party Integrations** | May delay launch | Early API testing, fallback options | Development Team |
-
-#### Resource Allocation
-
-| **Role** | **Hours/Week** | **Total Hours** | **Key Responsibilities** |
-|-----------|----------------|-----------------|---------------------------|
-| **Project Manager** | 20 | 160 | Project coordination, client communication |
-| **Senior Developer** | 40 | 320 | Architecture, complex features, code review |
-| **Frontend Developer** | 40 | 320 | Page development, responsive design |
-| **QA Specialist** | 20 | 80 | Testing, bug reporting, quality assurance |
+**Total Development Time**: 8-9 weeks
 
 ### Technical Specifications
 
@@ -144,10 +107,8 @@
 
 | Service | Deliverables |
 |---------|-------------|
-| **Strategy** | User research, competitive analysis, positioning |
-| **UX Design** | Wireframes, user flows, information architecture |
-| **UI Design** | Visual designs, component library, style guide |
-| **Brand Enhancement** | Messaging, visual identity refinement |
+| **Website Design** | Wireframes, user flows, information architecture |
+| **Visual Design** | Page layouts, component library, style guide |
 | **Design System** | Reusable components, patterns, guidelines |
 
 ### Displace Agency (Development)
