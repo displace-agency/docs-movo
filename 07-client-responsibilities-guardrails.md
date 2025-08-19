@@ -2,7 +2,7 @@
 
 ## **CURRENT OFFERING: PHASE 1 ONLY**
 
-**Note**: This document outlines the client responsibilities and project guardrails for Phase 1. These guidelines ensure project success and prevent delays.
+**Note**: This document outlines essential client responsibilities and project guardrails for Phase 1 success.
 
 ---
 
@@ -11,172 +11,114 @@
 **Project**: MOVO Website Redesign & Development  
 **Current Phase**: Phase 1 - Foundation  
 **Timeline**: 8-10 weeks (45 working days)  
-**Investment**: TBD  
-**Primary Goal**: Establish clear client responsibilities and project guardrails for successful delivery  
+**Primary Goal**: Clear client responsibilities and project guardrails for successful delivery  
 
 ---
 
-## Client Responsibilities & Timeline
+## Project Timeline Alignment
 
-### Required Client Actions
+### Phase 1: Foundation (8-10 Weeks)
 
-| **Week** | **Required From Client** | **Impact if Delayed** | **Mitigation** |
-|----------|-------------------------|----------------------|----------------|
-| **Week 1** | Domain access, analytics access, current site backup | Cannot proceed with technical setup | Use existing access where possible |
-| **Week 2** | Brand guidelines, product information, high-res images | Design phase delayed | Use existing brand assets |
-| **Week 3** | Content approval, messaging sign-off | Development starts with placeholders | Proceed with template content |
-| **Week 5** | API credentials, CRM access | Integration phase affected | Use test environments |
-| **Week 7** | Final content, legal/compliance review | Launch with temporary content | Launch with placeholders |
-
-### Client Decision-Making Requirements
-
-| **Decision Point** | **Required By** | **Stakeholders** | **Impact of Delay** |
-|--------------------|-----------------|-------------------|---------------------|
-| **Project Kickoff** | Week 1 | Primary contact + decision maker | Project cannot start |
-| **Design Direction** | Week 3 | Brand stakeholders + decision maker | Development delayed |
-| **Content Approval** | Week 5 | Marketing team + legal review | Launch with placeholders |
-| **Final Launch** | Week 8 | All stakeholders | Launch delayed |
+| **Week** | **Design Phase** | **Development Phase** | **Client Review Points** |
+|----------|------------------|----------------------|---------------------------|
+| **Week 1** | Discovery & Strategy | - | Strategy approval |
+| **Week 2** | Information Architecture | - | IA approval |
+| **Week 3** | Visual Direction | Project Setup | Visual direction approval |
+| **Week 4** | Wireframing | Core Structure | Wireframe approval |
+| **Week 5** | Core Page Designs | Homepage Development | Core pages approval |
+| **Week 6** | Complete Page Designs | Product Catalog | All page designs approval |
+| **Week 7** | Interactive Prototypes | Content Pages | Prototype approval |
+| **Week 8** | Design Handoff | Advanced Features | Final design approval |
+| **Week 9** | - | Testing & QA | Development review |
+| **Week 10** | - | Final Testing & Launch | Launch approval |
 
 ---
 
-## Risk Management & Project Guardrails
+## Essential Client Responsibilities
 
-### Risk Mitigation Strategies
+### Week 1-2: Foundation Setup
+- **Domain & Analytics Access** - Provide hosting credentials and Google Analytics access
+- **Brand Assets** - High-res logos, brand guidelines, color palette
+- **Project Kickoff** - Primary contact + decision maker approval
 
-| **Risk** | **Probability** | **Impact** | **Mitigation Strategy** |
-|----------|----------------|------------|-------------------------|
-| **Design Changes** | Medium | High | Change request process, impact assessment |
-| **Content Delays** | Medium | Medium | Content templates, client training |
-| **Client Feedback** | Medium | Medium | Regular check-ins, clear feedback process |
-| **Technical Issues** | Low | High | Code review, testing protocols |
-| **Scope Creep** | Medium | Medium | Change control, regular scope review |
+### Week 3-4: Design Direction
+- **Strategy Approval** - Approve brand audit and competitive analysis
+- **Visual Direction** - Approve mood boards and style exploration
+- **Wireframe Approval** - Approve site structure and navigation
 
-### Project Guardrails
+### Week 5-6: Design Approval
+- **Core Pages** - Approve homepage and key page designs
+- **Complete Designs** - Approve all remaining page designs
+- **Content Direction** - Provide product information and company content
 
-#### **Review & Approval Process**
-- **Clear review gates** every week
-- **Maximum 2 revision rounds** per deliverable
-- **Documented decisions only** (no verbal changes)
+### Week 7-8: Design Handoff
+- **Final Prototypes** - Approve interactive prototypes
+- **Design System** - Approve final design system and style guide
+- **Content Approval** - Finalize all text content and legal review
+
+### Week 9-10: Development & Launch
+- **Development Review** - Review and approve development work
+- **Final Testing** - Participate in user testing and bug review
+- **Launch Approval** - Approve final website for go-live
+
+---
+
+## Project Guardrails
+
+### Review & Approval Process
 - **48-hour response time** for client feedback
-- **Escalation process** for delayed decisions
+- **Maximum 2 revision rounds** per deliverable
+- **Documented decisions only** - no verbal changes
+- **Clear review gates** every week
 
-#### **Change Management**
+### Change Management
 - **Change request form** for all modifications
 - **Impact assessment** for scope changes
-- **Timeline adjustment** for approved changes
-- **Additional cost** for out-of-scope work
 - **Change freeze** 2 weeks before launch
+- **Additional cost** for out-of-scope work
 
-#### **Content Management**
-- **Proceed without perfect content** (use placeholders)
+### Content Management
+- **Proceed without perfect content** - use placeholders
 - **Content templates** provided for all pages
-- **Client training** on content creation
 - **Legal review** timeline established early
 - **Translation requirements** identified upfront
 
-#### **Quality Assurance**
+### Quality Assurance
 - **Testing protocols** for all deliverables
 - **Client testing** requirements defined
-- **Bug fix timeline** established
-- **Performance benchmarks** set
+- **Performance benchmarks** set (<2 second load time)
 - **Launch criteria** clearly defined
 
 ---
 
-## Resource Allocation & Team Structure
+## Risk Mitigation
 
-### Team Structure & Hours
-
-| **Role** | **Agency** | **Hours/Week** | **Total Hours** | **Key Responsibilities** |
-|-----------|------------|----------------|-----------------|---------------------------|
-| **Project Manager** | Both | 20 | 160 | Project coordination, client communication |
-| **Creative Director** | The Offsite | 20 | 160 | Strategic direction, brand design |
-| **UX Designer** | The Offsite | 40 | 320 | Information architecture, wireframes |
-| **UI Designer** | The Offsite | 40 | 320 | Visual design, component library |
-| **Senior Developer** | Displace | 40 | 320 | Architecture, complex features, code review |
-| **Frontend Developer** | Displace | 40 | 320 | Page development, responsive design |
-| **QA Specialist** | Displace | 20 | 80 | Testing, bug reporting, quality assurance |
-
-### Client Resource Requirements
-
-| **Resource Type** | **Required From** | **Timeline** | **Format** |
-|-------------------|-------------------|--------------|------------|
-| **Brand Assets** | Marketing team | Week 1-2 | High-res logos, brand guidelines |
-| **Product Information** | Product team | Week 2-3 | Specifications, pricing, images |
-| **Content** | Content team | Week 3-5 | Company info, product descriptions |
-| **Access Credentials** | IT team | Week 1 | Domain, hosting, analytics access |
-| **Legal Review** | Legal team | Week 7 | Compliance, terms, privacy policy |
+| **Risk** | **Probability** | **Impact** | **Mitigation Strategy** |
+|----------|----------------|------------|-------------------------|
+| **Design Changes** | Medium | High | Change request process, impact assessment |
+| **Content Delays** | Medium | Medium | Content templates, placeholder content |
+| **Client Feedback** | Medium | Medium | Regular check-ins, clear feedback process |
+| **Technical Issues** | Low | High | Code review, testing protocols |
+| **Scope Creep** | Medium | Medium | Change control, regular scope review |
 
 ---
 
-## Investment & Payment Schedule
-
-### Phase 1 Investment
-**Total Investment**: TBD  
-**Timeline**: 8-10 weeks  
-**ROI Expectation**: TBD  
-
-### Payment Schedule
-
-| **Milestone** | **Percentage** | **Amount** | **Due Date** | **Client Action Required** |
-|---------------|----------------|------------|--------------|---------------------------|
-| **Contract Signing** | 30% | TBD | Day 0 | Sign contract, provide payment |
-| **Design Approval** | 25% | TBD | Week 3 | Approve design direction |
-| **Development Complete** | 25% | TBD | Week 6 | Approve development work |
-| **Launch** | 20% | TBD | Week 8 | Approve final website |
-
-### Payment Terms
-- **Net 15** payment terms
-- **Late payment** may delay project
-- **Change orders** require additional cost
-- **Project pause** if payments are 30+ days late
-- **Escalation** to legal if payments are 60+ days late
-
----
-
-## Communication & Reporting
-
-### Weekly Status Updates
-- **Progress report** every Friday
-- **Risk assessment** and mitigation updates
-- **Next week** deliverables and milestones
-- **Client action items** and deadlines
-- **Budget** and timeline status
-
-### Monthly Reviews
-- **Overall project** health assessment
-- **Performance metrics** and KPIs
-- **Risk register** updates
-- **Change request** summary
-- **Next month** planning
-
-### Escalation Process
-1. **Project Manager** handles day-to-day issues
-2. **Agency Directors** involved for major decisions
-3. **Client Executive** contacted for critical delays
-4. **Legal teams** involved for contract issues
-5. **Project pause** if critical issues unresolved
-
----
-
-## Success Criteria & Acceptance
+## Success Criteria
 
 ### Launch Readiness Checklist
 - [ ] All pages completed and tested
 - [ ] Forms functional and integrated
 - [ ] Mobile responsive design verified
-- [ ] Performance benchmarks met
+- [ ] Performance benchmarks met (<2 seconds)
 - [ ] Content approved and legal-reviewed
 - [ ] Analytics and tracking configured
 - [ ] Client training completed
-- [ ] Launch plan approved
 
 ### Post-Launch Support
 - **30-day warranty** period for bug fixes
 - **Training documentation** provided
 - **Support contact** information shared
 - **Performance monitoring** for 30 days
-- **Client feedback** collection and review
 
 ---
 
@@ -187,8 +129,7 @@
 3. **Control Costs** - Change management prevents budget overruns
 4. **Ensure Quality** - Testing protocols and acceptance criteria
 5. **Manage Risk** - Proactive identification and mitigation strategies
-6. **Facilitate Communication** - Regular updates and escalation paths
 
 ---
 
-**Note**: These guardrails and responsibilities are designed to ensure project success. Adherence to these guidelines helps maintain project momentum and prevents costly delays or scope changes.
+**Note**: These guardrails ensure project success by maintaining clear expectations and preventing costly delays or scope changes.
